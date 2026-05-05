@@ -32,8 +32,7 @@
       "messages": [
         "I'm a regular player",
 
-        "I like to play Minecraft!"
-      ]
+        "I like to play Minecraft!" ]
     },
     "chat-log": true,
     "auto-reconnect": true,
