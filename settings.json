@@ -8,7 +8,7 @@
   "server": {
     "ip": "RaposasDeOuro.aternos.me",
     "port": 50572,
-    "version": "26.1.2 (4625)"
+    "version": "26.1.2"
   },
   "position": {
     "enabled": true,
